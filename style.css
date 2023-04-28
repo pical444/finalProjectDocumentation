@@ -1,4 +1,16 @@
-head{
+header{
+    padding:0 3%;
+}
+
+h1{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', italic;
-    font-size: 24px;
+    font-size: 30px;
+}
+
+h2{
+    font-size: 22px;
+}
+
+p{
+    font-size: 16px;
 }
