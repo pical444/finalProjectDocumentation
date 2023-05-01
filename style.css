@@ -1,8 +1,15 @@
 html{
-    background-color: #e699ff;
+  
 }
 header{
     padding:0 3%;
+}
+
+p{
+    padding:0 0.5%;
+    font-size: 15px;
+    font-family: Verdana, sans-serif;
+    
 }
 
 h1{
@@ -20,12 +27,6 @@ h2{
     
 }
 
-p{
-    padding:0 0.5%;
-    font-size: 15px;
-    font-family: Verdana, sans-serif;
-    
-}
 
 .center{
     padding: 70px 0;
