@@ -28,3 +28,7 @@ h2{
 .center{
     padding: 70px 0;
 }
+
+#object-position-1{
+    object-position: 70px 0; 
+}
